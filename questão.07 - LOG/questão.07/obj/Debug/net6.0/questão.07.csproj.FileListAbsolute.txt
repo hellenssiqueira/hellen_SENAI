@@ -1,0 +1,15 @@
+D:\hellen\questão.07\questão.07\obj\Debug\net6.0\questão.07.csproj.AssemblyReference.cache
+D:\hellen\questão.07\questão.07\obj\Debug\net6.0\questão.07.GeneratedMSBuildEditorConfig.editorconfig
+D:\hellen\questão.07\questão.07\obj\Debug\net6.0\questão.07.AssemblyInfoInputs.cache
+D:\hellen\questão.07\questão.07\obj\Debug\net6.0\questão.07.AssemblyInfo.cs
+D:\hellen\questão.07\questão.07\obj\Debug\net6.0\questão.07.csproj.CoreCompileInputs.cache
+D:\hellen\questão.07\questão.07\bin\Debug\net6.0\questão.07.exe
+D:\hellen\questão.07\questão.07\bin\Debug\net6.0\questão.07.deps.json
+D:\hellen\questão.07\questão.07\bin\Debug\net6.0\questão.07.runtimeconfig.json
+D:\hellen\questão.07\questão.07\bin\Debug\net6.0\questão.07.dll
+D:\hellen\questão.07\questão.07\bin\Debug\net6.0\questão.07.pdb
+D:\hellen\questão.07\questão.07\obj\Debug\net6.0\questão.07.dll
+D:\hellen\questão.07\questão.07\obj\Debug\net6.0\refint\questão.07.dll
+D:\hellen\questão.07\questão.07\obj\Debug\net6.0\questão.07.pdb
+D:\hellen\questão.07\questão.07\obj\Debug\net6.0\questão.07.genruntimeconfig.cache
+D:\hellen\questão.07\questão.07\obj\Debug\net6.0\ref\questão.07.dll
